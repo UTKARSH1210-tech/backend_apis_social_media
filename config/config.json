@@ -1,9 +1,9 @@
 {
     "development": {
-        "username": "postgres",
-        "password": "1234",
-        "database": "spyne",
-        "host": "127.0.0.1",
+        "username": "postgres_service_nst5_user",
+        "password": "rEkNxBelKINzMxKVfjr3hKMEC6YC4bvn",
+        "database": "postgres_service_nst5",
+        "host": "dpg-cpcmi3q1hbls73c8pl20-a",
         "dialect": "postgres"
     }
 }
